@@ -45,7 +45,7 @@
 
 本项目在 **Python 3.12** 环境下开发和测试。
 
-a. **克隆仓库** (上传后，这里的链接需要替换成你自己的)
+a. **克隆仓库** 
    ```bash
    git clone [https://github.com/wanwan2001/logistic_regression_project.git]
    cd [logistic_regression_project]
