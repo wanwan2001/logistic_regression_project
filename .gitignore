@@ -1,0 +1,32 @@
+# 字节码和缓存文件
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# 虚拟环境文件夹 (非常重要！)
+# 如果你的 conda 环境在项目文件夹内，请取消下面的注释并写上你的环境名
+# logistic_env/
+# venv/
+# env/
+# .venv/
+
+# 操作系统生成的文件
+.DS_Store
+Thumbs.db
+
+# IDE 配置文件
+.vscode/
+.idea/
+
+# 日志和数据文件 (大型数据文件通常不上传)
+*.log
+# *.csv  <-- 我们不取消注释，因为我们的 csv 文件很小，需要包含在项目里
+
+# Python build artifacts
+build/
+dist/
+*.egg-info/
