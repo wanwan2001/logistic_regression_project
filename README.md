@@ -47,8 +47,8 @@
 
 a. **克隆仓库** (上传后，这里的链接需要替换成你自己的)
    ```bash
-   git clone [你的仓库HTTPS链接]
-   cd [你的项目文件夹名]
+   git clone [https://github.com/wanwan2001/logistic_regression_project.git]
+   cd [logistic_regression_project]
    ```
 
 b. **创建并激活 Conda 虚拟环境**
@@ -79,4 +79,4 @@ c. **安装依赖**
 | Scikit-learn | **98.25%** |
 | NumPy from Scratch | **98.25%** |
 
-**结论**: 我们手动实现的逻辑回归模型，在经过适当的超参数调整后，其性能表现可以与专业的 `scikit-learn` 库相媲美。这有力地证明了我们对算法核心原理的理解是准确和有效的。
+**结论**: 手动实现的逻辑回归模型，在经过适当的超参数调整后，其性能表现可以与专业的 `scikit-learn` 库相媲美。这有力地证明了对算法核心原理的理解是准确和有效的。
